@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a9e87e4-7f85-42d4-898e-282cbd91bbd2)﻿# ViT-CIFAR10
+﻿# ViT-CIFAR10
 This is a notebook for Vision Transformer that trained on the CIFAR-10 dataset from scratch.
 With the Encoder based on : https://nlp.seas.harvard.edu/2018/04/03/attention.html
 # Model Settings:
